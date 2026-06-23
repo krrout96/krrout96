@@ -6,7 +6,7 @@
 
 ### *Always Looking to Explore Tech*
 
-<img src="./Assets/output.gif" width="100%" alt="Profile Banner"/>
+<img src="./Assets/Subtle_cinematic_animation_-ezgif.com-optimize.gif" width="100%" alt="Profile Banner"/>
 
 <br/>
 
